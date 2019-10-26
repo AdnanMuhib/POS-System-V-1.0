@@ -1,5 +1,5 @@
 # POS-System-V-1.0
-Point Of Sale POS system C#.Net project concept. For developed this POS system mainly use VisualStudio 2017, MS SQL Server 2016 and Crystal Report.
+Point Of Sale (POS) system based on concept of C#/.Net framework. This developed POS system mainly use VisualStudio 2017, MS SQL Server 2016 and Crystal Report.
 ## Screenshots
 ### Login Window
 ![Login Screen](https://github.com/AdnanMuhib/POS-System-V-1.0/blob/master/SCREEN%20SHOTS/Login.png)
